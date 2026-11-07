@@ -1,7 +1,7 @@
 {
   "name": "Rehab Timer",
   "short_name": "Rehab Timer",
-  "description": "Temporizador de rehabilitación · Charlie DK · v1.0.1",
+  "description": "Temporizador de rehabilitación · Charlie DK · v1.1.0",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
